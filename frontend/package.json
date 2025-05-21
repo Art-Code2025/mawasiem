@@ -1,19 +1,15 @@
 {
-  "name": "mawasiem",
+  "name": "mawasiem-frontend",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "server": "node server.js"
+    "preview": "vite preview"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.0",
     "lucide-react": "^0.446.0",
-    "multer": "^1.4.5-lts.1",
     "react": "^18.3.1",
     "react-beautiful-dnd": "^13.1.1",
     "react-dom": "^18.3.1",
